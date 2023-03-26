@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>未分类 &#8211; 墨本-Prompt</title>
+	<atom:link href="/category/uncategorized/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Midjourney关键词整理</description>
+	<lastBuildDate>Thu, 23 Mar 2023 20:15:03 +0000</lastBuildDate>
+	<language>zh-CN</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.1.1</generator>
+
+<image>
+	<url>/wp-content/uploads/2023/03/cropped-cropped-cropped-QQ图片20230324054732-32x32.png</url>
+	<title>未分类 &#8211; 墨本-Prompt</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Elementor #6</title>
+		<link>/elementor-6/</link>
+					<comments>/elementor-6/#respond</comments>
+		
+		<dc:creator><![CDATA[dome]]></dc:creator>
+		<pubDate>Tue, 21 Mar 2023 01:14:51 +0000</pubDate>
+				<category><![CDATA[未分类]]></category>
+		<guid isPermaLink="false">http://nbprompt.com/?p=6</guid>
+
+					<description><![CDATA[请输入您的问题: 复制]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="6" class="elementor elementor-6">
+									<section class="elementor-section elementor-top-section elementor-element elementor-element-df25713 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="df25713" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-5657d3c" data-id="5657d3c" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+									</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-13825cf elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="13825cf" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-3e57bb9" data-id="3e57bb9" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-3d5d790 elementor-widget elementor-widget-html" data-id="3d5d790" data-element_type="widget" data-widget_type="html.default">
+				<div class="elementor-widget-container">
+			
+<style>
+  body {
+    font-family: Arial, sans-serif;
+  }
+
+  #gpt-form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  }
+
+  #gpt-form label {
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+
+  #gpt-form input[type="text"],
+  #gpt-form input[type="submit"] {
+    font-size: 18px;
+    padding: 10px 15px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    outline: none;
+  }
+
+  /* Input field */
+  #gpt-form input[type="text"] {
+    width: 60%;
+    border: 2px solid #333;
+  }
+
+  /* Submit button */
+  #gpt-form input[type="submit"] {
+    background-color: #333;
+    color: white;
+    border: none;
+    cursor: pointer;
+    transition: background-color 0.3s;
+  }
+
+  #gpt-form input[type="submit"]:hover {
+    background-color: #555;
+  }
+
+  /* Response container */
+  #gpt-response-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 60%;
+    margin: 0 auto;
+  }
+
+  #gpt-response {
+    border: 1px solid #333;
+    border-radius: 5px;
+    padding: 10px;
+    white-space: pre-wrap;
+    margin-bottom: 10px;
+    width: 100%;
+  }
+
+  /* Copy button */
+  #copy-response {
+    background-color: #333;
+    color: white;
+    padding: 10px 15px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+  }
+
+  #copy-response:hover {
+    background-color: #555;
+  }
+</style>
+
+<form id="gpt-form">
+  <label for="user_input">请输入您的问题:</label>
+  <input type="text" id="user_input" name="user_input" required>
+  <input type="submit" value="提交">
+</form>
+<div id="gpt-response-container">
+  <div id="gpt-response"></div>
+  <button id="copy-response" style="display: none;">复制</button>
+</div>
+
+
+
+
+
+
+
+		</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-92857da elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="92857da" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-c39d225" data-id="c39d225" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-b3c8408 elementor-widget elementor-widget-text-editor" data-id="b3c8408" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.11.5 - 14-03-2023 */
+.elementor-widget-text-editor.elementor-drop-cap-view-stacked .elementor-drop-cap{background-color:#818a91;color:#fff}.elementor-widget-text-editor.elementor-drop-cap-view-framed .elementor-drop-cap{color:#818a91;border:3px solid;background-color:transparent}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap{margin-top:8px}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap-letter{width:1em;height:1em}.elementor-widget-text-editor .elementor-drop-cap{float:left;text-align:center;line-height:1;font-size:50px}.elementor-widget-text-editor .elementor-drop-cap-letter{display:inline-block}</style>				<p><span style="color: rgb(80, 87, 94); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, Oxygen-Sans, Ubuntu, Cantarell, &quot;Helvetica Neue&quot;, sans-serif; font-size: 13px; background-color: rgb(255, 255, 255);"></span><br></p>						</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+							</div>
+		]]></content:encoded>
+					
+					<wfw:commentRss>/elementor-6/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>世界，您好！</title>
+		<link>/hello-world/</link>
+					<comments>/hello-world/#comments</comments>
+		
+		<dc:creator><![CDATA[dome]]></dc:creator>
+		<pubDate>Mon, 20 Mar 2023 15:47:01 +0000</pubDate>
+				<category><![CDATA[未分类]]></category>
+		<guid isPermaLink="false">http://nbprompt.com/?p=1</guid>
+
+					<description><![CDATA[欢迎使用WordPress。这是您的第一篇文章。编辑或删除它，然后开始写作吧！]]></description>
+										<content:encoded><![CDATA[
+<p>欢迎使用WordPress。这是您的第一篇文章。编辑或删除它，然后开始写作吧！</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/hello-world/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
